@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dfsdf {
+  color: #ff343493;
+}
+@media screen and (max-width: 489px) {
+  .reposnivetask {
+    margin-top: 128px;
+    margin-bottom: 124px;
+  }
+}
